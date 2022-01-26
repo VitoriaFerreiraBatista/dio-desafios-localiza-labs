@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.6.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9BD26B96-12B9-476D-A8CB-31D6484C955B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Manipulando Arquivos", "Manipulando Arquivos", "{5A082540-54B0-4A46-BB33-BE8B3AC329EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrbalhandoComArquivos", "src\Manipulando Arquivos\TrbalhandoComArquivos\TrbalhandoComArquivos.csproj", "{DD84F4CA-3513-4FA5-A47E-A3DD5AF1A4C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD84F4CA-3513-4FA5-A47E-A3DD5AF1A4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD84F4CA-3513-4FA5-A47E-A3DD5AF1A4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD84F4CA-3513-4FA5-A47E-A3DD5AF1A4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD84F4CA-3513-4FA5-A47E-A3DD5AF1A4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A082540-54B0-4A46-BB33-BE8B3AC329EE} = {9BD26B96-12B9-476D-A8CB-31D6484C955B}
+		{DD84F4CA-3513-4FA5-A47E-A3DD5AF1A4C4} = {5A082540-54B0-4A46-BB33-BE8B3AC329EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B272AF45-4B25-47A6-BCB6-5510BFDC97FB}
+	EndGlobalSection
+EndGlobal
